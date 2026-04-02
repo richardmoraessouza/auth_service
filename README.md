@@ -210,14 +210,6 @@ Certifique-se de definir as variáveis de ambiente adequadamente no ambiente de 
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-## Contato
-
-Para dúvidas ou sugestões, entre em contato com o desenvolvedor: [seu-email@example.com](mailto:seu-email@example.com).
-
 ---
 
 Este README foi elaborado para fornecer uma visão completa e detalhada do projeto, facilitando a compreensão e adoção por desenvolvedores e arquitetos de sistemas.</content>
