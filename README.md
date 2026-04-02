@@ -210,7 +210,3 @@ Certifique-se de definir as variáveis de ambiente adequadamente no ambiente de 
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
----
-
-Este README foi elaborado para fornecer uma visão completa e detalhada do projeto, facilitando a compreensão e adoção por desenvolvedores e arquitetos de sistemas.</content>
-<parameter name="filePath">C:\Users\Pichau\Desktop\programacao\Auth-Service\README.md
